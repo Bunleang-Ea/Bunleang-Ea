@@ -1,4 +1,4 @@
-# Hi there, I'm Bunleang (Big Boi) 👋
+# Hello there, I'm Bunleang👋
 
 I'm a Data Science and Engineering undergrad at the Royal University of Phnom Penh with a passion for building things that actually solve problems—whether that is cleaning up messy data, analyzing data, database management and machine learning. I love get new experiences and learn new skills that will foster my future in my dream career.
 
